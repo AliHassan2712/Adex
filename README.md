@@ -1,5 +1,5 @@
 <div align="center">
-  
+  <br />
 
   <h2 align="center">Adex - Business Agency Website</h2>
 
@@ -9,4 +9,8 @@
 
 </div>
 
+<br />
 
+### Demo Screeshots
+
+![Adex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
